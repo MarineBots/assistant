@@ -30,8 +30,8 @@ from pyrogram.types import Message
 
 
 class Assistant(Client):
-    CREATOR_ID = 23122162  # Dan (haskell)
-    ASSISTANT_ID = 483849041
+    CREATOR_ID = 2088531241  # Dan (haskell)
+    ASSISTANT_ID = 2026605746
     config = ConfigParser()
     chats = []
 
